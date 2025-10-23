@@ -1,1 +1,1 @@
-# itmo_courses
+# analysis and development of algorithms
